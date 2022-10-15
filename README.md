@@ -12,7 +12,7 @@
 
 Este será um aplicativo mobile no qual irá gerar frases aleatórias.
 
-Desenvolvido inicialmente para o modelo Android, através do Android Studio e utilizando a linguagem Dart.
+Desenvolvido inicialmente para o modelo `Android`, através do `Android Studio` e utilizando a linguagem `Dart`.
 
 </p>
 
@@ -23,7 +23,7 @@ Será necessário a utilização do Android Studio.
 
 Poderá ser compilado através de um emulador android do Android Studio ou utilizar um celular que seja Android para emular o aplicativo.
 
-Também será disponibilizado um APK caso queiram testar a aplicação.
+Também será disponibilizado um `APK` caso queiram testar a aplicação.
 
 
 
