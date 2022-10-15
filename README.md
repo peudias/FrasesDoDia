@@ -4,7 +4,7 @@
 <div style="display: inline-block;">
 
 ![C++](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=AndroidStudio)&nbsp;
 
 </p>
 
@@ -19,20 +19,7 @@ Desenvolvido inicialmente para o modelo Android, através do Android Studio e ut
 
 ## Compilação e Execução
 
-Os exemplos disponibilizados possuem um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
 
-
-| Comando                |  Função                                                                                           |                     
-| -----------------------| ------------------------------------------------------------------------------------------------- |
-|  `make clean`          | Apaga a última compilação realizada contida na pasta build                                        |
-|  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
-|  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
-
-ou
-
-| Comando                |  Função                                                                                           |                     
-| -----------------------| ------------------------------------------------------------------------------------------------- |
-|  `make r`              | Executa o `make clean` + `make` + `make run`                                                      |
 
 
 # Contatos
