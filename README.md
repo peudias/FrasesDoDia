@@ -21,7 +21,7 @@ Desenvolvido inicialmente para o modelo `Android`, através do `Android Studio` 
 
 Será necessário a utilização do Android Studio.
 
-O projeto aqui no git até o momento apenas disponibiliza o main. É necessário a criação de um projeto flutter através do android studio e depois importar a pasta lib para seu projeto e então executar. Futuramente pretendo upar tudo o que for necessário aqui no git.
+O projeto aqui no git até o momento apenas disponibiliza o main. É necessário a criação de um projeto flutter através do android studio e depois importar a pasta lib para seu projeto e então executar. Futuramente pretendo upar tudo o que for necessário aqui no git, desde como exatamente executar até o projeto inteiro, com todas as pastas.
 
 Pode ser compilado através de um emulador android do Android Studio ou utilizar um celular que seja Android para emular o aplicativo.
 
