@@ -10,7 +10,7 @@
 
 <p align="justify">
 
-Este será um aplicativo mobile no qual irá gerar frases aleatórias.
+Aplicativo mobile que mostra frases em ordem aleatória para o usuário. A impressão desejada que o usuário tenha é de que o aplicativo imprima frases aleatórias.
 
 Desenvolvido inicialmente para o modelo `Android`, através do `Android Studio` e utilizando a linguagem `Dart`.
 
@@ -21,11 +21,11 @@ Desenvolvido inicialmente para o modelo `Android`, através do `Android Studio` 
 
 Será necessário a utilização do Android Studio.
 
-O projeto aqui no git apenas disponibiliza o main. É necessário a criação de um projeto flutter através do android studio e depois importar a pasta lib para seu projeto e então executar. Futuramente pretendo upar tudo o que for necessário aqui no git.
+O projeto aqui no git até o momento apenas disponibiliza o main. É necessário a criação de um projeto flutter através do android studio e depois importar a pasta lib para seu projeto e então executar. Futuramente pretendo upar tudo o que for necessário aqui no git.
 
-Poderá ser compilado através de um emulador android do Android Studio ou utilizar um celular que seja Android para emular o aplicativo.
+Pode ser compilado através de um emulador android do Android Studio ou utilizar um celular que seja Android para emular o aplicativo.
 
-Também será disponibilizado um `APK` caso queiram testar a aplicação.
+Futuramente será disponibilizado um `APK` para testes de aplicação.
 
 
 
