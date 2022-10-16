@@ -43,11 +43,14 @@ class _MyHomePageState extends State<MyHomePage> {
     'Wright estava certo.',
     'Maíra não é uma boa sugarmommy',
     'F*deu, ano que vem tem Física 3'
+    'FLAMENGO'
+    'Pizza'
+    'O JOGO'
   ];
 
   void _incrementCounter() {
     setState(() {
-      _numeroAleatorio = new Random().nextInt(9);
+      _numeroAleatorio = new Random().nextInt(12);
     });
   }
 
