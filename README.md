@@ -16,6 +16,21 @@ Desenvolvido inicialmente para o modelo `Android`, através do `Android Studio` 
 
 </p>
 
+## Tela inicial
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/84406892/196990230-252d6b32-63a3-445b-8334-c0ee576ae526.jpg" width="360" height="800">
+
+</p>
+
+## Exemplo de frases
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/84406892/196990242-1cb34d8f-0857-449c-9c7e-bf0eac4bebb1.jpg" width="1000" height="800">
+
+</p> 
 
 ## Compilação e Execução
 
